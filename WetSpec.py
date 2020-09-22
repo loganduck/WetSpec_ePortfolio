@@ -9,6 +9,7 @@ import time
 WetSpec is used to monitor changing weather conditions in remote environments.
 
 Review README for project specification.
+https://github.com/loganduck/WetSpec_ePortfolio/blob/master/README.md
 '''
 
 # SQLite database containing weather data.
